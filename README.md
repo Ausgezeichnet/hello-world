@@ -1,8 +1,8 @@
 # hello-world
 ==============
-Repository by Teddy Spear.
+##Repository by Teddy Spear.
 --------------------------
-Hello. I am Teddy Spear, and I am planning to use GitHub to help me with my programming.
+Hello. I am Teddy Spear, and I am planning to use GitHub to help me with my programming. :shipit:
 Some things I have used GitHub for:
   - [x] Uploading files to save
   - [x] Made new branches so that I could make edits better
