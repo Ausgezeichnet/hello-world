@@ -26,3 +26,4 @@ Also, GitHub has motivated me to:
   * Believe it or not, GitHub has motivated me to learn better Markdown! Here are some ways:
     * Comments
     * This text you are reading right now is styled with Markdown this way from things I learned using the [GitHub Basic Writing and Formatting Syntax webpage] (https://help.github.com/articles/basic-writing-and-formatting-syntax/ )
+  * Get more serious about programming
