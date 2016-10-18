@@ -26,4 +26,17 @@ Also, GitHub has motivated me to:
   * Believe it or not, GitHub has motivated me to learn better Markdown! Here are some ways:
     * Comments
     * This text you are reading right now is styled with Markdown this way from things I learned using the [GitHub Basic Writing and Formatting Syntax webpage] (https://help.github.com/articles/basic-writing-and-formatting-syntax/ )
-  * Get more serious about programming
+
+Here is something I researched about what happens in GitHub:
+
+1. Make new branch
+2. Work on files
+3. Commit changes
+4. Start a pull request
+	1. Compare
+		* If any bugs, fix them
+	2. Create the pull request when everything you want is changed
+	3. Give it a name and describe it
+5. Merge the branch you created to the master branch
+6. Delete the branch you created when merging is done
+	
