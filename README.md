@@ -2,7 +2,7 @@
 ==============
 ##Repository by Teddy Spear. :octocat:
 ------------------------------
-Hello. I am Teddy Spear, and I am planning to use GitHub to help me with my programming. :shipit:
+Hello. I am Teddy Spear, and I am planning to use GitHub to help me with my programming. :rabbit: :shipit:
 Some things I have used GitHub for:
   - [x] Uploading files to save
   - [x] Making new branches so that I could make edits better
@@ -27,7 +27,8 @@ Also, GitHub has motivated me to:
     * Comments
     * This text you are reading right now is styled with Markdown this way from things I learned using the [GitHub Basic Writing and Formatting Syntax webpage] (https://help.github.com/articles/basic-writing-and-formatting-syntax/ )
 
-Here is something I researched about what happens in GitHub:
+I found that another good webpage is the [Mastering Markdown] (https://guides.github.com/features/mastering-markdown/) webpage. Also, you might want to check out the [Emoji Cheat Sheet] (http://www.webpagefx.com/tools/emoji-cheat-sheet/).
+Here is something I researched about what happens in GitHub :scroll: :
 
 1. Make new branch
 2. Work on files
