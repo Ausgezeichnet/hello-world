@@ -28,7 +28,7 @@ Also, GitHub has motivated me to:
     * This text you are reading right now is styled with Markdown this way from things I learned using the [GitHub Basic Writing and Formatting Syntax webpage] (https://help.github.com/articles/basic-writing-and-formatting-syntax/ )
 
 I found that another good webpage is the [Mastering Markdown] (https://guides.github.com/features/mastering-markdown/) webpage. Also, you might want to check out the [Emoji Cheat Sheet] (http://www.webpagefx.com/tools/emoji-cheat-sheet/).
-Here is something I researched about what happens in GitHub:
+Here is something I researched about what happens in GitHub :scroll: :
 
 1. Make new branch
 2. Work on files
