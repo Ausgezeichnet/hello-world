@@ -41,3 +41,10 @@ Here is something I researched about what happens in GitHub :scroll: :
 5. Merge the branch you created to the master branch
 6. Delete the branch you created when merging is done
 	
+Some awesome people:
+
+[mfs409] (https://www.github.com/mfs409)
+
+[reeedstudio] (https://www.github.com/reeedstudio)
+
+[Pooja-B] (https://www.github.com/Pooja-B)
