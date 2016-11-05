@@ -48,3 +48,5 @@ Some awesome people:
 [reeedstudio] (https://www.github.com/reeedstudio)
 
 [Pooja-B] (https://www.github.com/Pooja-B)
+
+I hope that you like this webpage, I put a lot of work into it :chart_with_upwards_trend:
