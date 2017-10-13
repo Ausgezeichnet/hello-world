@@ -1,5 +1,5 @@
 # hello-world
-##Repository by Teddy Spear. :octocat:
+Repository by Teddy Spear. :octocat:
 ------------------------------
 Hello. I am Teddy Spear, and I am planning to use GitHub to help me with my programming. :rabbit: :shipit:
 Some things I have used GitHub for:
